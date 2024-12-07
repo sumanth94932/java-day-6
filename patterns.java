@@ -20,4 +20,10 @@ class hallow{
             System.out.println();
         }
     }
-}
+}/*
+
+* * * * * 
+*
+* * * * * 
+        * 
+* * * * *   */
